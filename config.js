@@ -33,7 +33,7 @@ global.keepAliveRender = 0; //Solo valores: 1 o 0
 // ❰❰ methodCode ❱❱
 // [ES] > Agregue el número del Bot en "botNumberCode" si desea recibir código de 8 dígitos sin registrar el número en la consola.
 // [EN] > Add the Bot number in "botNumberCode" if you want to receive 8-digit code without registering the number in the console.
-global.botNumberCode = "" //example: "+59309090909"
+global.botNumberCode = "" //example: "51920 726 320"
 global.confirmCode = "" // No tocar esto : Do not touch this line
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -144,7 +144,7 @@ global.tk = "https://www.tiktok.com/@gata_bot"
 global.ths = "https://www.threads.net/@gata_dios"
 global.paypal = 'https://paypal.me/OficialGD'
 global.asistencia = 'https://wa.me/message/C45GXBEFTPONE1' //Contacto
-global.bot = 'wa.me/59162987125'
+global.bot = 'wa.me/51920 726 320'
 
 global.nna = 'https://www.atom.bio/GataBot/' // Cuentas
 global.nn2 = 'https://t.me/supergatabot' // Grupo tg GataBot
